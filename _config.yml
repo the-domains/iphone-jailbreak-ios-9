@@ -1,0 +1,28 @@
+name: iPhone Jailbreak iOS 9
+favicon: null
+layout_spectrum: 0.6841048812493682
+typography_spectrum: 0.3265263373032212
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3947858428582549
+  lightness: 0.8901337357237935
+  saturation: 0.9985215661581606
+  rhythmicContrast: 0.5586299758870155
+purpose: []
